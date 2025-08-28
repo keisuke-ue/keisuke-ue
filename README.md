@@ -1,7 +1,7 @@
 Hi! I'm Keisuke!
 I'm programmer!
 Aiming for the enjoyable tool dev and make the life fun!
-Hope for being one of the menber who builds blight future!
+Hope for being one of the member who builds blight future!
 
 
 <!---
